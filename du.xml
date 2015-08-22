@@ -2,7 +2,6 @@
 <!--Please do not manually edit this file-->
 <manifest>
   <remote name="chas" fetch="git://github.com/chasmodo" />
-  <remote name="xplod" fetch="git://github.com/fastbootmobile" />
   <!--Remove/replace shit-->
   <remove-project name="platform/packages/apps/SoundRecorder" />
   <project name="android_packages_apps_SoundRecorder" path="packages/apps/SoundRecorder" remote="chas" revision="lollipop-caf" />
